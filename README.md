@@ -2,13 +2,13 @@
 
 Description: This script automates the process of removing unwanted + unnecessary apps from Opel TouchFlip devices. The user will be prompted at various stages throughout the script, allowing them to remove the packages they want while keeping some packages they may be interested in keeping (E.G. Facebook + Whatsapp).
 
-The script may work for other Opel/Android devices, but I have not tested it on devices other than the TouchFlip. Exercise caution if running the script on another device. 
+The script may work for other Opel/Android devices, perhaps even the Sunbeam F1 Orchid given it is the same chassis as the TouchFlip. I have not tested it on devices other than the TouchFlip. Exercise caution if running the script on another device. 
 
 Shell script for Mac OS + Linux users coming soon. 
 
 Debloating of unnecessary Android AOSP packages coming soon.
 
-I may develop a script to automate the install of F-Droid, Aurora Store and Unlauncer (or other custom launchers) for the TouchFlip if there is interest. This script will automate the process of allowing the user to install their own apps on the TouchFlip, and move the device away from being a locked-down seniors phone towards being a minimalist but still funtional Android flip phone.
+I may develop a script to automate the install of F-Droid, Aurora Store and Unlauncer (or other custom launchers) for the TouchFlip if there is interest. This script will automate the process of allowing the user to install their own apps on the TouchFlip, and move the device away from being a locked-down seniors phone towards being a minimalist but still funtional Android flip phone. When developed it should work on the Sunbeam F1 Orchid, unless they have locked down the sideloading of apps.
 
 # Instructions:
 
